@@ -1,0 +1,7 @@
+15 6 3 2
+AAA......A**AAA
+AAAA.........AA
+AA....+.?..+.2A
+AA@.A..+.....2A
+AA..........?AA
+AAA....AAAAAAAA
